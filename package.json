@@ -1,0 +1,10 @@
+{
+  "name": "session10-ex5-backend",
+  "version": "1.0.0",
+  "description": "Backend app cho session10 ex5 - doc ENV DB_HOST",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "license": "MIT"
+}
